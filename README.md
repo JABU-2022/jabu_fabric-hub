@@ -127,8 +127,16 @@ You can install manually by following these steps:
 
 ## Mockup
 
-You can view the mockup of the JABU Fabric Hub E-commerce System [here](https://drive.google.com/file/d/1tpLfsSTD8GmiKI1cwA2gEMCpAJZzYdbY/view?usp=sharing).
+You can view the mockup of the JABU Fabric Hub E-commerce System [here](https://drive.google.com/drive/folders/1-Fd9zqbFy6rUtRgbNBAKoto8GraUt4_z?usp=sharing).
+
+## Initial product video demostration
+
+Veiw the initial software [here](https://www.youtube.com/watch?v=Cbh2fzgQOcI)
+
+## Final product video demotration 
+
+Veiw final demostration [here](https://www.youtube.com/watch?v=Lk_ORXo7AKk)
 
 ## GitHub Repository
 
-You can access the GitHub repository for the JABU Fabric Hub E-commerce System [here](https://github.com/JABU-2022/jabu-fabric-hub/tree/master).
+You can access the GitHub repository for the JABU Fabric Hub E-commerce System [here](https://github.com/JABU-2022/jabu_fabric-hub).
