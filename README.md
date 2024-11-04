@@ -137,6 +137,10 @@ Veiw the initial software [here](https://www.youtube.com/watch?v=Cbh2fzgQOcI)
 
 Veiw final demostration [here](https://www.youtube.com/watch?v=Lk_ORXo7AKk)
 
+## Visit the platform 
+
+Vist the platform [here](https://faststream.com.ng/)
+
 ## GitHub Repository
 
 You can access the GitHub repository for the JABU Fabric Hub E-commerce System [here](https://github.com/JABU-2022/jabu_fabric-hub).
