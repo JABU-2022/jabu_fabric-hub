@@ -108,7 +108,7 @@ Ensure the `mod_rewrite` Apache module is enabled.
 
 Open your PHP configuration file `php.ini` and change the following settings:
 
-```ini
+
 memory_limit = 256M
 max_execution_time = 300
 
